@@ -6,6 +6,7 @@
 ## 📖 收录版本
 
 - [杂交版](games/杂交版.md)
+-  [金铲铲版.md](games\金铲铲版.md)
 
 ## 📂 项目结构
 
@@ -13,9 +14,7 @@
 
 ## 🚀 如何参与
 
-- Fork 本项目，提交 Pull Request
-- 在 Issues 中分享你发现的新魔改版本
-- 贡献工具/文档
+请见 [指南](CONTRIBUTING.md) ，共同完善项目
 
 ## 📜 License
 
